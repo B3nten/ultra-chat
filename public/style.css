@@ -1,0 +1,9 @@
+
+     html{
+       scroll-behavior: smooth;
+       padding: 1rem;
+     }
+
+     img{
+      display: inline !important;
+     }

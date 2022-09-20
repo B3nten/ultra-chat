@@ -1,0 +1,22 @@
+{
+  "imports": {
+    "react": "https://esm.sh/react@18.2.0?dev",
+    "react/": "https://esm.sh/react@18.2.0/",
+    "react-dom": "https://esm.sh/react-dom@18.2.0",
+    "react-dom/server": "https://esm.sh/react-dom@18.2.0/server?dev",
+    "react-dom/client": "https://esm.sh/react-dom@18.2.0/client?dev",
+
+    "twind": "https://esm.sh/twind@0.16.17",
+    "twind/sheets": "https://esm.sh/twind@0.16.17/sheets",
+
+    "react-router-dom": "https://esm.sh/react-router-dom@6.3.0?external=react",
+    "react-router-dom/server": "https://esm.sh/react-router-dom@6.3.0/server?external=react",
+
+    "@tanstack/react-query": "https://esm.sh/@tanstack/react-query@4.2.3?external=react",
+
+    "tmi": "https://esm.sh/tmi.js@1.8.5?bundle",
+    "auto-animate": "https://esm.sh/@formkit/auto-animate@1.0.0-beta.3/react?external=react",
+
+    "ultra/": "https://deno.land/x/ultra@v2.0.0-beta.7/"
+  }
+}
